@@ -6,11 +6,10 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <Link to="/" className="nav-logo">
-        MyGov
+        NexGov
       </Link>
       <div className="nav-links">
         <Link to="/" className="nav-link">Home</Link>
-        <Link to="/mea-form" className="nav-link">MEA Form</Link>
       </div>
     </nav>
   );

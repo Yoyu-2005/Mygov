@@ -1,6 +1,6 @@
 {
-  "short_name": "MyGov",
-  "name": "MyGov Portal",
+  "short_name": "NexGov",
+  "name": "NexGov Portal",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
