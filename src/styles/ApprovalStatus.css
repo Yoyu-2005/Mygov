@@ -1,0 +1,41 @@
+.approval-container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.approval-container h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 3rem;
+}
+
+.status-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.status-item {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.status-item h3 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.status-item p {
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+/* Add styling for the no requests message */
+.no-requests {
+  text-align: center;
+  color: #666;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+} 
